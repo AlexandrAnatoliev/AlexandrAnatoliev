@@ -10,7 +10,11 @@
 | telegram | https://t.me/AlexandrAnatoliev |
 
 
+
+
 [email] (otetzalexandr1986@gmail.com)
+
+
 
 - 🔭 I’m currently working in open source projects.
 - 🌱 I’m currently learning java.
