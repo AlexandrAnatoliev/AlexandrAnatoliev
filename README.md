@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Alexandr</h1>
   <h3> Junior Java Developer from Murmansk</h3>
 </div>
-
+|left| right|
 |-----------------|----------------------------|
 |Send me message| |
 |email|otetzalexandr1986@gmail.com|
