@@ -7,7 +7,7 @@
 |:-----------------:|:------------------------:|
 
 
-###### About me
+#### About me
 - 🌱 I’m currently learning java.
 - 🔭 I’m currently working in open source projects.
 
@@ -15,3 +15,8 @@
 |--------------------------------|-|
 | GitHub | https://github.com/AlexandrAnatoliev/eulersC |
 | Site | https://eulerproject.ru |
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+  title="js" width="40" height="40"/>&nbsp;
+          
