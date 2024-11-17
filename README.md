@@ -3,10 +3,9 @@
   <h3> Junior Java Developer from Murmansk</h3>
 </div>
   
-| Send me message |                            | 
-|-----------------|----------------------------|
-| email | otetzalexandr1986@gmail.com |
-| telegram | https://t.me/AlexandrAnatoliev |
+| [email](otetzalexandr1986@gmail.com)| [telegram](https://t.me/AlexandrAnatoliev) |
+|:-----------------:|:------------------------:|
+
 
 ###### About me
 - 🌱 I’m currently learning java.
