@@ -3,16 +3,23 @@
   <h3> Junior Java Developer from Murmansk</h3>
 </div>
 
+<div id="table" align="center">
+  <p>
 
+
+
+  
+    | Send me message|  |
+|-----------------|----------------------------|
+| email | otetzalexandr1986@gmail.com |
+| telegram | https://t.me/AlexandrAnatoliev |
+  </p>
+</div>
+  
 | Send me message|  |
 |-----------------|----------------------------|
 | email | otetzalexandr1986@gmail.com |
 | telegram | https://t.me/AlexandrAnatoliev |
-
-
-
-
-[email] (otetzalexandr1986@gmail.com)
 
 
 
