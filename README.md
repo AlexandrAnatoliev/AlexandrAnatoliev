@@ -4,8 +4,8 @@
 </div>
 
 
-| left| right |
-|:-----------------:|:----------------------------:|
+| Send me message|  |
+|-----------------|----------------------------|
 | email | otetzalexandr1986@gmail.com |
 | telegram | https://t.me/AlexandrAnatoliev |
 
