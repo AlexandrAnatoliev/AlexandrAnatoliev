@@ -1,6 +1,6 @@
 ## Hi there, I'm Alexandr
 
-<div id="header" aligh="center">
+<div id="header" align="center">
   <h1>Hi there, I'm Alexandr</h1>
   <h3> Junior Java Developer from Murmansk</h3>
 </div>
