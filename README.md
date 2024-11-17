@@ -5,6 +5,7 @@
 
 
 #### My contacts
+
 | [email](otetzalexandr1986@gmail.com)| [telegram](https://t.me/AlexandrAnatoliev) |
 |:-----------------:|:------------------------:|
 
@@ -14,12 +15,14 @@
 - 🌱 I’m currently learning java.
 - 🔭 I’m currently working in open source projects.
 
+
 #### My projects
 
 | Solving project Euler problems in C language | |
 |--------------------------------|-|
 | GitHub | https://github.com/AlexandrAnatoliev/eulersC |
 | Site | https://eulerproject.ru |
+
 
 #### Languages and tools
 
@@ -46,4 +49,13 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
       title="js" width="40" height="40"/>&nbsp; 
     </a>
+</div>
+
+
+#### My stat
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandrAnatoliev&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexandrAnatoliev&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandrAnatoliev&theme=github_dark" alt=""/>
 </div>
