@@ -6,8 +6,8 @@
 
 #### My contacts
 
-| [email](AlexandrAnatolievBox@mail.ru)| [telegram](https://t.me/AlexandrAnatoliev) |
-|:-----------------:|:------------------------:|
+| [telegram](https://t.me/AlexandrAnatoliev) |
+|:-----------------:|
 
 
 #### About me
