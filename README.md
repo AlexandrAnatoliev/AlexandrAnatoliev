@@ -15,15 +15,6 @@
 - 🌱 I’m currently learning java.
 - 🔭 I’m currently working in open source projects.
 
-
-#### My projects
-
-| Solving project Euler problems in C language | |
-|--------------------------------|-|
-| GitHub | https://github.com/AlexandrAnatoliev/eulersC |
-| Site | https://eulerproject.ru |
-
-
 #### Languages and tools
 
 <div id="pictures" align="center">
