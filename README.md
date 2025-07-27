@@ -3,19 +3,6 @@
   <h3> Full stack developer from Murmansk</h3>
 </div>
 
-<p style="color: red;">Этот текст красный</p>
-<span style="color: blue;">Синий текст</span>
-<span style="background-color: yellow;">Текст с жёлтым фоном</span>
-<span style="font-family: monospace; font-size: 12px;">Моноширинный текст</span>
-# Заголовок
-
-<p style="color: purple; font-weight: bold;">Фиолетовый жирный текст</p>
-
-<table>
-  <tr>
-    <td style="background-color: #f0f0f0; padding: 10px;">Ячейка с фоном</td>
-  </tr>
-</table>
 #### My contacts
 
 | [telegram](https://t.me/AlexandrAnatoliev) |
