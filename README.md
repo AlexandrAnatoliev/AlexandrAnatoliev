@@ -4,6 +4,7 @@
 </div>
 
 <p style="color: red;">Этот текст красный</p>
+<span style="color: blue;">Синий текст</span>
 
 #### My contacts
 
