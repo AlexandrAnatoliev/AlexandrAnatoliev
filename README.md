@@ -3,6 +3,7 @@
   <h3> Full stack developer from Murmansk</h3>
 </div>
 
+<p style="color: red;">Этот текст красный</p>
 
 #### My contacts
 
