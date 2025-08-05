@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Alexandr</h1>
-  <h3> Full stack developer from Murmansk</h3>
+  <h3> Full-stack Software Engineer</h3>
 </div>
 
 #### My contacts
