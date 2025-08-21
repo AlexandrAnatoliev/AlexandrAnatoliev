@@ -44,8 +44,8 @@
 
 #### My stat
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandrAnatoliev&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexandrAnatoliev&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandrAnatoliev&theme=github_dark" alt=""/>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandrAnatoliev&theme=github_dark" width="98%" alt=""/><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexandrAnatoliev&theme=github_dark" width="49%" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandrAnatoliev&theme=github_dark" width="49%" alt=""/>
 </div>
