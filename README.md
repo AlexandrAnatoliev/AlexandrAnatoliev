@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/Email-per--1986@list.ru-blue?style=flat-square&logo=gmail)](mailto:per-1986@list.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-AlexandrAnatoliev-2CA5E0?style=flat-square&logo=telegram)](https://t.me/AlexandrAnatoliev)
-  
+
 #### About me
 
 - 🌱 I’m currently learning java.
@@ -29,22 +29,21 @@
     title="js" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
     title="js" width="40" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-      title="js" width="40" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-      title="js" width="40" height="40"/>&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-      title="js" width="40" height="40"/>&nbsp; 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
-      title="js" width="40" height="40"/>&nbsp; 
-    </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    title="js" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    title="js" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+    title="js" width="40" height="40"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
+    title="js" width="40" height="40"/>&nbsp; 
+  </a>
 </div>
-
 
 #### My stat
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandrAnatoliev&theme=github_dark" width="98%" alt=""/><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexandrAnatoliev&theme=github_dark" width="49%" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandrAnatoliev&theme=github_dark" width="49%" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandrAnatoliev&theme=github_dark" width="98%" alt=""/><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexandrAnatoliev&theme=github_dark" width="49%" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandrAnatoliev&theme=github_dark" width="49%" alt=""/>
 </div>
