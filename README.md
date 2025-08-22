@@ -3,12 +3,11 @@
   <h3> Full-stack Software Engineer</h3>
 </div>
 
-#### My contacts
+#### Contacts
 
-| [telegram](https://t.me/AlexandrAnatoliev) |
-|:-----------------:|
-
-
+[![Email](https://img.shields.io/badge/Email-per--1986@list.ru-blue?style=flat-square&logo=gmail)](mailto:per-1986@list.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-AlexandrAnatoliev-2CA5E0?style=flat-square&logo=telegram)](https://t.me/AlexandrAnatoliev)
+  
 #### About me
 
 - 🌱 I’m currently learning java.
