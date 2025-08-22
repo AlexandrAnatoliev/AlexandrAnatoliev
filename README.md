@@ -3,17 +3,23 @@
   <h3>Full-stack Software Engineer</h3>
 </div>
 
+<div align="center">
+
+  [![Email](https://img.shields.io/badge/Email-per--1986@list.ru-blue?style=flat-square&logo=gmail)](mailto:per-1986@list.ru)
+  [![Telegram](https://img.shields.io/badge/Telegram-AlexandrAnatoliev-2CA5E0?style=flat-square&logo=telegram)](https://t.me/AlexandrAnatoliev)
+  ![Stars](https://img.shields.io/github/stars/AlexandrAnatoliev.svg?style=flat)
+  ![Followers](https://img.shields.io/github/followers/AlexandrAnatoliev?style=flat)
+  
+</div>
+
 #### About me
 
 - 🌱 I’m currently learning java.
 - 🔭 I’m currently working in open source projects.
 
-[![Email](https://img.shields.io/badge/Email-per--1986@list.ru-blue?style=flat-square&logo=gmail)](mailto:per-1986@list.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-AlexandrAnatoliev-2CA5E0?style=flat-square&logo=telegram)](https://t.me/AlexandrAnatoliev)
-![Stars](https://img.shields.io/github/stars/AlexandrAnatoliev.svg?style=flat)
-![Followers](https://img.shields.io/github/followers/AlexandrAnatoliev?style=flat)
-
 #### Languages and tools
+
+<div align="center">
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -22,6 +28,8 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+</div>
 
 #### My stat
 
