@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Alexandr</h1>
-  <h3> Full-stack Software Engineer</h3>
+  <h3>Full-stack Software Engineer</h3>
 </div>
 
-#### Contacts
-
+![Stars](https://img.shields.io/github/stars/AlexandrAnatoliev.svg?style=flat)
+![Followers](https://img.shields.io/github/followers/AlexandrAnatoliev?style=flat)
 [![Email](https://img.shields.io/badge/Email-per--1986@list.ru-blue?style=flat-square&logo=gmail)](mailto:per-1986@list.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-AlexandrAnatoliev-2CA5E0?style=flat-square&logo=telegram)](https://t.me/AlexandrAnatoliev)
 
