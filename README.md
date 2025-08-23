@@ -9,6 +9,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-AlexandrAnatoliev-2CA5E0?style=flat-square&logo=telegram)](https://t.me/AlexandrAnatoliev)
   ![Stars](https://img.shields.io/github/stars/AlexandrAnatoliev.svg?style=flat)
   ![Followers](https://img.shields.io/github/followers/AlexandrAnatoliev?style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=AlexandrAnatoliev&color=blueviolet)
   
 </div>
 
