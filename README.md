@@ -37,6 +37,8 @@
   [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
   [![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-FF9900?style=for-the-badge&logo=eclipse&logoColor=white)](https://jakarta.ee/)
   [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=testng&logoColor=white)](https://junit.org/junit5/)
+  [![JShell](https://img.shields.io/badge/JShell-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/9/jshell/introduction-jshell.html)
+  [![UML](https://img.shields.io/badge/UML-3366CC?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://www.uml.org/)
 
 </div>
 
