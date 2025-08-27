@@ -15,8 +15,7 @@
 
 #### About me
 
-- 🌱 I’m currently learning java.
-- 🔭 I’m currently working in open source projects.
+- 🔭 I’m like open source
 
 #### Languages and tools
 
