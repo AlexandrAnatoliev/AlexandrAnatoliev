@@ -15,7 +15,7 @@
 
 #### About me
 
-- 🔭 I’m like open source
+- 🔭 I like open source
 
 #### Languages and tools
 
