@@ -21,10 +21,7 @@
 
 <div align="center">
 
-  [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
-  [![GCC](https://img.shields.io/badge/GCC-68217A?style=for-the-badge&logo=gnu&logoColor=white)](https://gcc.gnu.org/)
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -38,7 +35,6 @@
   [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=testng&logoColor=white)](https://junit.org/junit5/)
   [![JShell](https://img.shields.io/badge/JShell-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/9/jshell/introduction-jshell.html)
   [![UML](https://img.shields.io/badge/UML-3366CC?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://www.uml.org/)
-  [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
   
 </div>
 
