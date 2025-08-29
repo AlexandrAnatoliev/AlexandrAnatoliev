@@ -38,7 +38,8 @@
   [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=testng&logoColor=white)](https://junit.org/junit5/)
   [![JShell](https://img.shields.io/badge/JShell-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/9/jshell/introduction-jshell.html)
   [![UML](https://img.shields.io/badge/UML-3366CC?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://www.uml.org/)
-
+  [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+  
 </div>
 
 #### My stat
