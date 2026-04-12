@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Alexander</h1>
-  <h3>I like open source</h3>
+  <h3>I like open source, project Euler and leetcode</h3>
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/AlexandrAnatoliev?theme=dark&font=Noto%20Sans%20Lisu)
 </div>
 
 <div align="center">
